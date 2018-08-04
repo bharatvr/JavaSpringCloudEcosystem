@@ -13,4 +13,4 @@ spring:
     url: jdbc:postgresql://localhost:5432/databsename
     username: userName
     password: passWord
-    driverClassName: org.postgresql.Driver     
+    driverClassName: org.postgresql.Driver
