@@ -1,8 +1,10 @@
-Project Title
+Project Title : Java Spring Ecosystem
 
- Java Spring Ecosystem
-Getting Started
- Java Spring Cloud Ecosystem has four module as given below which can be test locally. These appliaction are about how spring config server work , load balacing with Zuul and eureka.
+
+ 
+Getting Started:
+
+ Java Spring Cloud Ecosystem has four module as given below and we can easly test locally. These appliaction are about how spring config server, load balacing with Zuul and eureka work.
   
   1. spring-config-server
   2. eureka-server
