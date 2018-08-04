@@ -1,0 +1,10 @@
+server:
+  port: 7090
+spring:
+  application:
+    name: spring-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/bharatvr/ConfigServer
