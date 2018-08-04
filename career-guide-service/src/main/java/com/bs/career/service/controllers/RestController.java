@@ -15,8 +15,8 @@ public class RestController {
 
 	@RequestMapping("/healthCheck")
 	public ValueResult<String> healthCheck() {
-		System.out.println("Request at : "+new Date());
-		return new ValueResult<>("Great! Spring Config server is running");
+		System.out.println("Request at : " + new Date());
+		return new ValueResult<>("Great!, your service running through zuul server");
 	}
 
 }
