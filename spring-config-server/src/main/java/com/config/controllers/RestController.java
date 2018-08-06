@@ -1,5 +1,6 @@
 package com.config.controllers;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.config.model.ValueResult;
@@ -8,7 +9,7 @@ import com.config.model.ValueResult;
  * @author bharat
  *
  */
-@org.springframework.web.bind.annotation.RestController
+@Controller
 public class RestController {
 
 	@RequestMapping("/healthCheck")
