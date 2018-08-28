@@ -13,7 +13,7 @@ Getting Started:
 They are running at separate port and communicating to each other internally. 
 
 * In order to test appliaction you first need to start spring-config-server > eureka-server > carrer-guide-service > zuul-server.
-* Everthing should run fine the you can check eureka server that career-guide-service and zuul-server must registed on eureka server. 
+* Everthing should run fine, you can check eureka server where career-guide-service and zuul-server must registed on eureka server. 
 
  * Concept of spring config server : Spring Cloud Config provides server and client-side support for externalized configuration in a distributed system.” The default implementation of the server storage backend uses git.  Client application can get required application.properties based on environment from git location.
  
