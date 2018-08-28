@@ -1,4 +1,4 @@
-package com.bs.career.service;
+package com.bs.door.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,9 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
-public class CareerGuideServiceApplication {
+public class DoorServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CareerGuideServiceApplication.class, args);
+		SpringApplication.run(DoorServiceApplication.class, args);
 	}
 }

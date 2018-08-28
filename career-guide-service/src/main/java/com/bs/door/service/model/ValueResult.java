@@ -1,4 +1,4 @@
-package com.bs.career.service.model;
+package com.bs.door.service.model;
 
 /**
  * @author bharat

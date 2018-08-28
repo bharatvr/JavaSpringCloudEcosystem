@@ -1,10 +1,10 @@
-package com.bs.career.service.controllers;
+package com.bs.door.service.restcontrollers;
 
 import java.util.Date;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.bs.career.service.model.ValueResult;
+import com.bs.door.service.model.ValueResult;
 
 /**
  * @author bharat

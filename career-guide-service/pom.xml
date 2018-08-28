@@ -9,8 +9,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>career-guide-service</name>
-	<description>Spring boot appliaction to provide best career guide service</description>
+	<name>service-at-door</name>
+	<description>Spring boot appliaction to provide service at door</description>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
