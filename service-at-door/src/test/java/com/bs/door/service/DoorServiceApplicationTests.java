@@ -1,4 +1,4 @@
-package com.config.server;
+package com.bs.door.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
